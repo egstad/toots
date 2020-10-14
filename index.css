@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.site-wrapper {
+  background-color: rgb(80, 10, 80);
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 32px;
+  line-height: 1.4;
+  height: 100vh;
+}
